@@ -1,4 +1,13 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+
+.column{
+    float: left;
+    width: 25%;
+    padding: 5px;
+}
+>>>>>>> 4ddbc31df40722196fec29c077ac3c33702880f1
 ul {
     list-style-type: none;
     margin: 0;
@@ -25,6 +34,7 @@ ul {
   
   .active {
     background-color: #080808;
+<<<<<<< HEAD
   }
 
 
@@ -172,3 +182,6 @@ html {
 }
 /* navbar style */
 >>>>>>> AboutFeature
+=======
+  }
+>>>>>>> 4ddbc31df40722196fec29c077ac3c33702880f1
